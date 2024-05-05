@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "name": "vansh sharma",
+        "email": "vansh432.sharma@gmail.com",
+        "age": 30,
+        "isActive": true
+    },
+    {
+        "id": "2",
+        "name": "drake",
+        "email": "drake@gmail.com",
+        "age": 25,
+        "isActive": false
+    }
+]
